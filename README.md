@@ -45,5 +45,5 @@ The app should now be running on `http://localhost:3000`.
 - Click the "Not Interested" button at the bottom of a card to remove it from the view.
 - If all cards are removed, click the "Refresh" button to reset the page and view all cards again.
 
-## Project Structure
+
 
